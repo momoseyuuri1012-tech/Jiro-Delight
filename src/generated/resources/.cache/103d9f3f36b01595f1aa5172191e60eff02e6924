@@ -1,0 +1,4 @@
+// 1.20.1	2026-06-08T16:31:29.7422275	Registries
+a3a34d9421de95a2314856386bd9b0285e82840f data/jirodelight/forge/biome_modifier/add_garlic_flower.json
+35561b70e0c02f0d38c31805dbd049e77e3a5321 data/jirodelight/worldgen/configured_feature/garlic_flower.json
+91b4d90e1c94423c5baaf0e0e173793fbcc6c459 data/jirodelight/worldgen/placed_feature/garlic_flower.json

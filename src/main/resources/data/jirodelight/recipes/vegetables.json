@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "MCM",
+    " M "
+  ],
+  "key": {
+    "M": { "item": "jirodelight:bean_sprouts" },
+    "C": { "item": "farmersdelight:cabbage" }
+  },
+  "result": {
+    "item": "jirodelight:vegetables",
+    "count": 2
+  }
+}

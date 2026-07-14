@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "ate_mashimashi": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [ "jirodelight:jiro_ramen_mashimashi" ]
+        }
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "jirodelight:jiro_ramen_mashimashi"
+    },
+    "title": {
+      "translate": "advancement.jirodelight.eat_mashimashi.title"
+    },
+    "description": {
+      "translate": "advancement.jirodelight.eat_mashimashi.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  }
+}

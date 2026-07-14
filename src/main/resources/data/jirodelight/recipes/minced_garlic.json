@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    { "item": "jirodelight:garlic" }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    { "item": "jirodelight:minced_garlic", "count": 2 }
+  ]
+}

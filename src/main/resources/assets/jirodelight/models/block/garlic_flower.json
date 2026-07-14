@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "jirodelight:block/garlic_flower"
+  },
+  "render_type": "minecraft:cutout"
+}

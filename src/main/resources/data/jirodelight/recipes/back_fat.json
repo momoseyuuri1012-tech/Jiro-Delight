@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:cooked_porkchop"
+  },
+  "result": {
+    "item": "jirodelight:back_fat"
+  },
+  "experience": 0.35,
+  "cookingtime": 600
+}

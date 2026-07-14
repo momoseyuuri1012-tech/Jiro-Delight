@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WBW",
+    "WWW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:wheat" },
+    "B": { "item": "minecraft:water_bucket" }
+  },
+  "result": {
+    "item": "jirodelight:noodle_dough",
+    "count": 1
+  },
+  "show_notification": true
+}

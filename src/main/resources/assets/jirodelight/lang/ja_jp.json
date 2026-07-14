@@ -1,0 +1,15 @@
+{
+  "item.jirodelight.garlic": "ニンニク",
+  "item.jirodelight.minced_garlic": "刻んだニンニク",
+  "item.jirodelight.back_fat": "背脂",
+  "item.jirodelight.noodle_dough": "麺生地",
+  "item.jirodelight.extra_thick_noodles": "極太麺",
+  "item.jirodelight.bean_sprouts": "もやし",
+  "item.jirodelight.vegetables": "ヤサイ",
+  "item.jirodelight.jiro_ramen": "二郎ラーメン",
+  "item.jirodelight.jiro_ramen_mashi": "二郎ラーメン 全マシ",
+  "item.jirodelight.jiro_ramen_mashimashi": "二郎ラーメン 全マシマシ",
+  "advancement.jirodelight.eat_mashimashi.title": "ニンニク入れますか？",
+  "advancement.jirodelight.eat_mashimashi.desc": "マシマシを完食し、真のジロリアンへ。",
+  "itemGroup.jiro_tab": "Jiro Delight"
+}

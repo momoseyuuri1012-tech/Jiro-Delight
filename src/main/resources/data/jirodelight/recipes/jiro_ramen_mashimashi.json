@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VNV",
+    "PJM",
+    "VFV"
+  ],
+  "key": {
+    "J": { "item": "jirodelight:jiro_ramen_mashi" },
+    "N": { "item": "jirodelight:minced_garlic" },
+    "P": { "item": "minecraft:cooked_porkchop" },
+    "F": { "item": "jirodelight:back_fat" },
+    "V": { "item": "jirodelight:vegetables" },
+    "M": { "item": "jirodelight:minced_garlic" }
+  },
+  "result": {
+    "item": "jirodelight:jiro_ramen_mashimashi",
+    "count": 1
+  }
+}

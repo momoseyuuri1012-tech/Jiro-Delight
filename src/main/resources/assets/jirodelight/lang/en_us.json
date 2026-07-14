@@ -1,0 +1,15 @@
+{
+  "item.jirodelight.garlic": "Garlic",
+  "item.jirodelight.minced_garlic": "Minced Garlic",
+  "item.jirodelight.back_fat": "Back Fat",
+  "item.jirodelight.noodle_dough": "Noodle Dough",
+  "item.jirodelight.extra_thick_noodles": "Extra Thick Noodles",
+  "item.jirodelight.bean_sprouts": "Bean Sprouts",
+  "item.jirodelight.vegetables": "Vegetables",
+  "item.jirodelight.jiro_ramen": "Jiro Ramen",
+  "item.jirodelight.jiro_ramen_mashi": "Jiro Ramen Zenmashi",
+  "item.jirodelight.jiro_ramen_mashimashi": "Jiro Ramen Zenmashimashi",
+  "advancement.jirodelight.eat_mashimashi.title": "Would you like garlic?",
+  "advancement.jirodelight.eat_mashimashi.desc": "Finish the Mashimashi and become a true Jirorian.",
+  "itemGroup.jiro_tab": "Jiro Delight"
+}

@@ -1,0 +1,15 @@
+{
+  "item.jirodelight.garlic": "大蒜",
+  "item.jirodelight.minced_garlic": "蒜末",
+  "item.jirodelight.back_fat": "背脂",
+  "item.jirodelight.noodle_dough": "面团",
+  "item.jirodelight.extra_thick_noodles": "极粗面",
+  "item.jirodelight.bean_sprouts": "豆芽",
+  "item.jirodelight.vegetables": "蔬菜",
+  "item.jirodelight.jiro_ramen": "二郎拉面",
+  "item.jirodelight.jiro_ramen_mashi": "二郎拉面 全部加量",
+  "item.jirodelight.jiro_ramen_mashimashi": "二郎拉面 全部加加量",
+  "advancement.jirodelight.eat_mashimashi.title": "要加大蒜吗？",
+  "advancement.jirodelight.eat_mashimashi.desc": "吃完加加量，成为真正的二郎拉面爱好者。",
+  "itemGroup.jiro_tab": "Jiro Delight"
+}

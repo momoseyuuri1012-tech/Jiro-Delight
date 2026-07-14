@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    { "item": "jirodelight:noodle_dough" }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    { "item": "jirodelight:extra_thick_noodles", "count": 2 }
+  ]
+}

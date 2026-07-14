@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    { "item": "jirodelight:extra_thick_noodles" },
+    { "item": "minecraft:bone" },
+    { "item": "minecraft:cooked_porkchop" },
+    { "item": "jirodelight:back_fat" },
+    { "item": "jirodelight:vegetables" },
+    { "item": "jirodelight:minced_garlic" }
+  ],
+  "result": {
+    "item": "jirodelight:jiro_ramen"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}
