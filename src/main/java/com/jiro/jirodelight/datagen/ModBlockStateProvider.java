@@ -19,7 +19,9 @@ public class ModBlockStateProvider extends BlockStateProvider {
             int age = state.getValue(CropBlock.AGE);
             return ConfiguredModel.builder()
                     // .renderType("cutout") を追加するのが重要です！
-                    .modelFile(models().cross("garlic_stage" + age, modLoc("block/garlic_stage" + age))
+                    .modelFile(models()
+                            .withExistingParent("garlic_stage" + age, mcLoc("block/crop"))
+                            .texture("crop", modLoc("block/garlic_stage" + age))
                             .renderType("cutout"))
                     .build();
         });
